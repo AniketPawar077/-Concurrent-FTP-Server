@@ -77,7 +77,7 @@ int main(int argc, char *argv[])
 
     if((argc < 2) || (argc > 2))
     {
-        printf("Unabel to processed as invalid number of arguments\n");
+        printf("Unable to processed as invalid number of arguments\n");
         printf("Please provide the port number\n");
         
         return -1;
