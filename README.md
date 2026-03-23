@@ -13,9 +13,8 @@ The server handles multiple clients concurrently using `fork()`.
 ```
 .
 ├── Server.c
-├── Client.c
-├── Makefile
-└── README.md
+├── README.md
+└── Client.c
 ```
 
 ## Build
